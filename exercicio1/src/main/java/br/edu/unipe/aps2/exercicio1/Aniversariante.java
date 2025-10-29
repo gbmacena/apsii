@@ -22,4 +22,4 @@ public boolean equals(Object obj) {
 
     return this.nome.equals(outro.nome) &&
            this.dataAniversario.equals(outro.dataAniversario);
-}}
+}};
